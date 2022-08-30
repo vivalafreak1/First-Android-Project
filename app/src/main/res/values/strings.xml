@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">simpleAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_name">Judul</string>
+    <string name="detail">detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="category">Kategori</string>
+    <string name="tahun">Tahun</string>
+    <string name="rating">Rating</string>
+    <string name="genre">Genre</string>
+</resources>
